@@ -1,0 +1,284 @@
+{
+  "defect": [
+    {
+      "id": 1,
+      "Defect_ID": "DEF001",
+      "Module": "Login",
+      "Description": "Login Form",
+      "Steps_to_recreate": "Step1 : Styling",
+      "Severity": "High",
+      "Priority": "Medium",
+      "Defect_Type": "UI",
+      "Entered_By": "Thuvarakan",
+      "Entered_Date": "10/03/2019",
+      "Status": "Opened",
+      "Assigned_To": "Theepan",
+      "Fixed_By": "Theepan",
+      "Fixed_Date": "12/03/2019",
+      "Available_in": "13/03/2019",
+      "Comments": "Form Element - MDBootstrap"
+    },
+    {
+      "Defect_ID": "DEF002",
+      "Module": "Signup",
+      "Description": "Login Form",
+      "Steps_to_recreate": "Step1 : Styling",
+      "Severity": "High",
+      "Priority": "High",
+      "Defect_Type": "UI",
+      "Entered_By": "Kishanth",
+      "Entered_Date": "10/03/2019",
+      "Status": "Opened",
+      "Assigned_To": "Saarangan",
+      "Fixed_By": "Saarangan",
+      "Fixed_Date": "12/03/2019",
+      "Available_in": "13/03/2019",
+      "Comments": "Form Element - MDBootstrap",
+      "id": 2
+    },
+    {
+      "Defect_ID": "DEF003",
+      "Module": "Main Menu",
+      "Description": "Dashboard Entry",
+      "Steps_to_recreate": "Navigation setup\nRouter\nUI",
+      "Severity": "High",
+      "Priority": "High",
+      "Defect_Type": "UI",
+      "Entered_By": "Kishanth",
+      "Entered_Date": "2019-03-21",
+      "Status": "New",
+      "Assigned_To": "Dalistaa",
+      "Fixed_By": "Dalistaa",
+      "Fixed_Date": "2019-03-23",
+      "Available_in": "4 Days",
+      "Comments": "dashboard",
+      "id": 3
+    },
+    {
+      "Defect_ID": "",
+      "Module": "",
+      "Description": "",
+      "Steps_to_recreate": "",
+      "Severity": "High",
+      "Priority": "High",
+      "Defect_Type": "UI",
+      "Entered_By": "",
+      "Entered_Date": "2019-04-16",
+      "Status": "",
+      "Assigned_To": "",
+      "Fixed_By": "",
+      "Fixed_Date": "2019-3-3",
+      "Available_in": "",
+      "Comments": "",
+      "id": 4
+    },
+    {
+      "Defect_ID": "",
+      "Module": "",
+      "Description": "",
+      "Steps_to_recreate": "",
+      "Severity": "High",
+      "Priority": "High",
+      "Defect_Type": "UI",
+      "Entered_By": "",
+      "Entered_Date": "2019-04-16",
+      "Status": "",
+      "Assigned_To": "",
+      "Fixed_By": "",
+      "Fixed_Date": "2019-3-3",
+      "Available_in": "",
+      "Comments": "",
+      "id": 5
+    }
+  ],
+  "module": [
+    {
+      "moduleID": "M001",
+      "moduleName": "Buttons",
+      "assignedPersons": "Theepan",
+      "id": 1
+    },
+    {
+      "moduleID": "M002",
+      "moduleName": "NavBar",
+      "assignedPersons": "Kishanth",
+      "id": 2
+    },
+    {
+      "moduleID": "M003",
+      "moduleName": "Carousel",
+      "assignedPersons": "Thuvarakan",
+      "id": 3
+    },
+    {
+      "moduleID": "M004",
+      "moduleName": "Multi-Select",
+      "assignedPersons": "Saarangan",
+      "id": 4
+    },
+    {
+      "moduleID": "M004",
+      "moduleName": "Multi-Select",
+      "assignedPersons": "Saarangan",
+      "id": 5
+    },
+    {
+      "moduleID": "M004",
+      "moduleName": "Multi-Select",
+      "assignedPersons": "Saarangan",
+      "id": 6
+    },
+    {
+      "moduleID": "M004",
+      "moduleName": "Multi-Select",
+      "assignedPersons": "Saarangan",
+      "id": 7
+    },
+    {
+      "moduleID": "M004",
+      "moduleName": "Multi-Select",
+      "assignedPersons": "Saarangan",
+      "id": 8
+    },
+    {
+      "moduleID": "M004",
+      "moduleName": "Multi-Select",
+      "assignedPersons": "Saarangan",
+      "id": 9
+    },
+    {
+      "moduleID": "M005",
+      "moduleName": "sf",
+      "assignedPersons": "Thuvarakan",
+      "id": 10
+    },
+    {
+      "moduleID": "M005",
+      "moduleName": "sf",
+      "assignedPersons": "Thuvarakan",
+      "id": 11
+    },
+    {
+      "moduleID": "sdfa",
+      "moduleName": "asf",
+      "assignedPersons": "Saarangan",
+      "id": 12
+    },
+    {
+      "moduleID": "",
+      "moduleName": "",
+      "assignedPersons": "",
+      "id": 13
+    },
+    {
+      "moduleID": "KLDFGN",
+      "moduleName": "jsndf",
+      "assignedPersons": "Dalistaa",
+      "id": 14
+    },
+    {
+      "moduleID": "KLDFGN",
+      "moduleName": "jsndf",
+      "assignedPersons": "Dalistaa",
+      "id": 15
+    },
+    {
+      "moduleID": "sf",
+      "moduleName": "jkhsfv",
+      "assignedPersons": "",
+      "id": 16
+    },
+    {
+      "moduleID": "jhsfbvJHDBVJB",
+      "moduleName": "SHVBJ",
+      "assignedPersons": "Thuvarakan",
+      "id": 17
+    },
+    {
+      "moduleID": "sdfjknkjb",
+      "moduleName": "jhv",
+      "assignedPersons": "",
+      "id": 18
+    },
+    {
+      "moduleID": "",
+      "moduleName": "",
+      "assignedPersons": "",
+      "id": 19
+    },
+    {
+      "moduleID": "kwsbj",
+      "moduleName": "kbsdfk",
+      "assignedPersons": "Thuvarakan",
+      "id": 20
+    },
+    {
+      "moduleID": "",
+      "moduleName": "",
+      "assignedPersons": "",
+      "id": 21
+    },
+    {
+      "moduleID": "",
+      "moduleName": "",
+      "assignedPersons": "",
+      "id": 22
+    },
+    {
+      "moduleID": "asef",
+      "moduleName": "asf",
+      "assignedPersons": "Dalistaa",
+      "id": 23
+    },
+    {
+      "moduleID": "erfsef",
+      "moduleName": "shfg",
+      "assignedPersons": "Kishanth",
+      "id": 24
+    }
+  ],
+  "users": [
+    {
+      "fullName": "Kishanth",
+      "email": "kishanth001@gmail.com",
+      "password": "krish123",
+      "jobRole": "Developer",
+      "id": 1
+    },
+    {
+      "fullName": "Thuvarakan",
+      "email": "thuvarakan@gmail.com",
+      "password": "thuva123",
+      "jobRole": "Developer",
+      "id": 2
+    },
+    {
+      "fullName": "Dalistaa",
+      "email": "dalistaa@gmail.com",
+      "password": "dalistaa123",
+      "jobRole": "QA",
+      "id": 3
+    },
+    {
+      "fullName": "Theepan",
+      "email": "maadduravi@gmail.com",
+      "password": "theeps123",
+      "jobRole": "QA",
+      "id": 4
+    },
+    {
+      "fullName": "Saarangan",
+      "email": "saarapaampu@gmail.com",
+      "password": "saarangs123",
+      "jobRole": "Developer",
+      "id": 5
+    },
+    {
+      "fullName": "Sham",
+      "email": "sjf@dgjn.sa",
+      "password": "kkk",
+      "jobRole": "QA",
+      "id": 6
+    }
+  ]
+}
